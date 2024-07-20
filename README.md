@@ -1,4 +1,4 @@
-[ENG](https://github.com/Oakshen/RT-SLAM/README.md) [中文](https://github.com/Oakshen/RT-SLAM/README_CN.md)
+[ENG](https://github.com/Oakshen/RT-SLAM/README.md) [中文](https://github.com/Oakshen/RT-SLAM/blob/main/README_CN.md)
 # RT-SLAM
 Fusion RT-DETR in ORB-SLAM3
 
